@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RedBeacon</string>
+    <string name="unknown">Unknown</string>
+    <string name="uuid">UUID:</string>
+    <string name="major">Major:</string>
+    <string name="minor">Minor:</string>
+    <string name="distance">Distance:</string>
+    <string name="type">Type:</string>
+    <string name="beacon_id">Beacon ID:</string>
+    <string name="limited_permission_title">Limited Functionality</string>
+    <string name="limited_permission_message">Since location access has not been granted, this app will not be able to discover beacons in background.</string>
+    <string name="permission_request_title">Allow to control location?</string>
+    <string name="permission_request_message">With this permission, this app will be able to discover beacons in background.</string>
+    <string name="notice_enable_bluetooth">Enabling Bluetooth</string>
+    <string name="warn_api_18_title">API less than 18</string>
+    <string name="warn_api_18_message">Bluetooth LE not supported prior to API 18.</string>
+    <string name="warn_bt_not_supported_title">Bluetooth LE not supported</string>
+    <string name="warn_bt_not_supported_message">This device does not support bluetooth LE.</string>
+</resources>
